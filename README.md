@@ -1,1 +1,1 @@
-# rsschool-cv
+https://alexlenkov-ptn.github.io/rsschool-cv/cv
